@@ -7,7 +7,7 @@ from src.queue_manager import get_todays_entry, load_queue, mark_posted, save_qu
 
 
 def _image_url(image_path: str) -> str:
-    repo = os.environ["GITHUB_REPOSITORY"]
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
     return f"https://raw.githubusercontent.com/{repo}/main/{image_path}"
 
 
@@ -36,21 +36,28 @@ def run() -> None:
 
     target_date = today["date"]
     image_url = _image_url(today["image_path"])
+    any_posted = False
 
     if not today["posted"]["twitter"]:
         if post_twitter(today["posts"]["twitter"], today["image_path"]):
             queue = mark_posted(queue, target_date, "twitter")
+            any_posted = True
 
     if not today["posted"]["facebook"]:
         if post_facebook(today["posts"]["facebook"], image_url):
             queue = mark_posted(queue, target_date, "facebook")
+            any_posted = True
 
     if not today["posted"]["instagram"]:
         if post_instagram(today["posts"]["instagram"], image_url):
             queue = mark_posted(queue, target_date, "instagram")
+            any_posted = True
 
-    save_queue(queue)
-    _git_commit_and_push(target_date)
+    if any_posted:
+        save_queue(queue)
+        _git_commit_and_push(target_date)
+    else:
+        print("No platforms were successfully posted to — skipping commit.")
 
 
 if __name__ == "__main__":

@@ -43,6 +43,7 @@ def test_run_posts_to_all_three_platforms(
     mock_twitter.assert_called_once()
     mock_facebook.assert_called_once()
     mock_instagram.assert_called_once()
+    mock_save.assert_called_once()
 
 
 @patch("src.main_post.subprocess.run")
@@ -119,3 +120,26 @@ def test_run_passes_github_image_url_to_facebook_and_instagram(
     ig_image_url = mock_instagram.call_args[0][1]
     assert fb_image_url == expected_url
     assert ig_image_url == expected_url
+
+
+@patch("src.main_post.subprocess.run")
+@patch("src.main_post.post_instagram")
+@patch("src.main_post.post_facebook")
+@patch("src.main_post.post_twitter")
+@patch("src.main_post.save_queue")
+@patch("src.main_post.get_todays_entry")
+@patch("src.main_post.load_queue")
+def test_run_skips_commit_when_all_platforms_fail(
+    mock_load, mock_today, mock_save, mock_twitter, mock_facebook, mock_instagram, mock_sub
+):
+    mock_load.return_value = SAMPLE_QUEUE
+    mock_today.return_value = SAMPLE_TODAY_ENTRY
+    mock_twitter.return_value = False
+    mock_facebook.return_value = False
+    mock_instagram.return_value = False
+
+    from src.main_post import run
+    run()
+
+    mock_save.assert_not_called()
+    mock_sub.assert_not_called()

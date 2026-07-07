@@ -1,6 +1,6 @@
 import pytest
 from pathlib import Path
-from unittest.mock import patch, MagicMock, call
+from unittest.mock import patch, MagicMock
 
 
 @patch("src.poster.tweepy.Client")
