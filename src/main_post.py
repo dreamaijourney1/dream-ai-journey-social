@@ -8,7 +8,7 @@ from src.queue_manager import get_todays_entry, load_queue, mark_posted, save_qu
 
 def _image_url(image_path: str) -> str:
     repo = os.environ.get("GITHUB_REPOSITORY", "")
-    return f"https://raw.githubusercontent.com/{repo}/main/{image_path}"
+    return f"https://raw.githubusercontent.com/{repo}/master/{image_path}"
 
 
 def _git_commit_and_push(target_date: str) -> None:
