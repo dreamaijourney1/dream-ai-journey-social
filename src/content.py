@@ -116,3 +116,4 @@ Return this exact JSON (no other text):
             {**day, "date": day_dates[i]}
             for i, day in enumerate(data["days"])
         ],
+    }
