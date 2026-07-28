@@ -95,8 +95,21 @@ Return this exact JSON (no other text):
         messages=[{"role": "user", "content": user_prompt}],
     )
 
-    data = json.loads(message.content[0].text)
+raw_response = message.content[0].text.strip()
 
+print("Claude raw response:")
+print(raw_response)
+
+if not raw_response:
+    raise ValueError("Claude returned an empty response.")
+
+if raw_response.startswith("```"):
+    raw_response = raw_response.removeprefix("```json")
+    raw_response = raw_response.removeprefix("```")
+    raw_response = raw_response.removesuffix("```")
+    raw_response = raw_response.strip()
+
+data = json.loads(raw_response)
     return {
         "week_of": week_of,
         "days": [
