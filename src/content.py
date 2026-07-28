@@ -87,7 +87,6 @@ Return this exact JSON (no other text):
     }}
   ]
 }}"""
-
     message = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=8096,
@@ -95,25 +94,25 @@ Return this exact JSON (no other text):
         messages=[{"role": "user", "content": user_prompt}],
     )
 
-raw_response = message.content[0].text.strip()
+    raw_response = message.content[0].text.strip()
 
-print("Claude raw response:")
-print(raw_response)
+    print("Claude raw response:")
+    print(raw_response)
 
-if not raw_response:
-    raise ValueError("Claude returned an empty response.")
+    if not raw_response:
+        raise ValueError("Claude returned an empty response.")
 
-if raw_response.startswith("```"):
-    raw_response = raw_response.removeprefix("```json")
-    raw_response = raw_response.removeprefix("```")
-    raw_response = raw_response.removesuffix("```")
-    raw_response = raw_response.strip()
+    if raw_response.startswith("```"):
+        raw_response = raw_response.removeprefix("```json")
+        raw_response = raw_response.removeprefix("```")
+        raw_response = raw_response.removesuffix("```")
+        raw_response = raw_response.strip()
 
-data = json.loads(raw_response)
+    data = json.loads(raw_response)
+
     return {
         "week_of": week_of,
         "days": [
             {**day, "date": day_dates[i]}
             for i, day in enumerate(data["days"])
         ],
-    }
