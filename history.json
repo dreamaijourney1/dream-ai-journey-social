@@ -1,6 +1,39 @@
 {
   "weeks": [
     {
+      "week_of": "2026-08-10",
+      "days": [
+        {
+          "service": "AI Chatbots",
+          "angle": "before_after"
+        },
+        {
+          "service": "Follow-up Emails",
+          "angle": "before_after"
+        },
+        {
+          "service": "Marketing Automation",
+          "angle": "client_win"
+        },
+        {
+          "service": "Data Entry Automation",
+          "angle": "question_led"
+        },
+        {
+          "service": "Invoicing & Billing",
+          "angle": "pain_point"
+        },
+        {
+          "service": "Inventory Alerts",
+          "angle": "client_win"
+        },
+        {
+          "service": "General Brand Story",
+          "angle": "question_led"
+        }
+      ]
+    },
+    {
       "week_of": "2026-08-03",
       "days": [
         {
