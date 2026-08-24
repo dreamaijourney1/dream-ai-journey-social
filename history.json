@@ -1,6 +1,39 @@
 {
   "weeks": [
     {
+      "week_of": "2026-08-24",
+      "days": [
+        {
+          "service": "AI Chatbots",
+          "angle": "behind_the_scenes"
+        },
+        {
+          "service": "Follow-up Emails",
+          "angle": "question_led"
+        },
+        {
+          "service": "Marketing Automation",
+          "angle": "pain_point"
+        },
+        {
+          "service": "Data Entry Automation",
+          "angle": "myth_busting"
+        },
+        {
+          "service": "Invoicing & Billing",
+          "angle": "before_after"
+        },
+        {
+          "service": "Inventory Alerts",
+          "angle": "myth_busting"
+        },
+        {
+          "service": "General Brand Story",
+          "angle": "client_win"
+        }
+      ]
+    },
+    {
       "week_of": "2026-08-17",
       "days": [
         {
@@ -96,39 +129,6 @@
         {
           "service": "General Brand Story",
           "angle": "myth_busting"
-        }
-      ]
-    },
-    {
-      "week_of": "2026-07-28",
-      "days": [
-        {
-          "service": "AI Chatbots",
-          "angle": "client_win"
-        },
-        {
-          "service": "Follow-up Emails",
-          "angle": "pain_point"
-        },
-        {
-          "service": "Marketing Automation",
-          "angle": "myth_busting"
-        },
-        {
-          "service": "Data Entry Automation",
-          "angle": "before_after"
-        },
-        {
-          "service": "Invoicing & Billing",
-          "angle": "question_led"
-        },
-        {
-          "service": "Inventory Alerts",
-          "angle": "did_you_know"
-        },
-        {
-          "service": "General Brand Story",
-          "angle": "behind_the_scenes"
         }
       ]
     }
