@@ -1,79 +1,15 @@
 {
-  "week_of": "2026-10-12",
+  "week_of": "2026-10-19",
   "days": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-19",
       "service": "AI Chatbots",
-      "angle": "before_after",
-      "image_path": "images/2026-10-12/day-1.png",
-      "posts": {
-        "facebook": "Before: It's 11pm and three customers have sent the same question \u2014 'Do you offer gift wrapping?' You're exhausted, but you drag yourself to reply because you know a slow response means a lost sale. Every. Single. Night.\n\nAfter: Your AI chatbot handles those questions the moment they come in \u2014 instantly, accurately, and warmly \u2014 whether it's noon or 2am. You wake up to customers who already got their answers and went ahead and purchased.\n\nThat shift from reactive to restful? That's what a well-built chatbot does for a small business. It's not about replacing your personality \u2014 it's about making sure your business is always 'on' even when you're not.\n\nWe set these up for small business owners all the time, and the relief we hear afterward is real. You deserve to sleep through the night without your phone lighting up.\n\nCurious what that would look like for your business? Visit dream-page.com and let's talk.",
-        "instagram": "Before: answering the same customer questions at midnight, every night.\n\nAfter: your AI chatbot handles it instantly \u2014 so you actually get to rest.\n\nYour chatbot greets visitors, answers FAQs, and guides people toward buying \u2014 all while you're living your life. Same warmth, zero burnout.\n\nThis is what running a smarter small business looks like. You bring the heart, we handle the repetition.\n\nReady to make the switch? Visit dream-page.com \ud83d\udc99\n\n#SmallBusinessOwner #AIchatbot #BusinessAutomation #WorkSmarterNotHarder #SmallBizLife #CustomerService #ChatbotForBusiness #EntrepreneurLife #DreamAIJourney #AutomateYourBusiness",
-        "twitter": "Before: answering the same customer questions at midnight. After: your AI chatbot handles it 24/7 so you can actually rest. Small business owners deserve both. dream-page.com"
-      },
-      "posted": {
-        "facebook": false,
-        "instagram": false,
-        "twitter": false
-      }
-    },
-    {
-      "date": "2026-10-13",
-      "service": "Follow-up Emails",
-      "angle": "behind_the_scenes",
-      "image_path": "images/2026-10-12/day-2.png",
-      "posts": {
-        "facebook": "Ever wonder how some businesses always seem to follow up at exactly the right moment \u2014 without it feeling pushy or robotic? Let me pull back the curtain a little.\n\nHere's how automated follow-up emails actually work: when a customer takes a specific action \u2014 browses a service page, fills out a form, or doesn't complete a purchase \u2014 the system notices. Then it sends a pre-written, personalized email at a timed interval you choose. Maybe 24 hours later. Maybe 3 days. You decide the voice, the timing, and the message.\n\nFrom the customer's side, it feels like you were thinking about them. From your side, you set it up once and let it run.\n\nWe help small business owners write and build these sequences so they actually sound like YOU \u2014 warm, specific, and helpful. Not spammy. Not generic.\n\nWant to see what a follow-up sequence could look like for your business? Head to dream-page.com and let's build it together.",
-        "instagram": "How do smart small businesses always follow up at the perfect time? \u2728\n\nHere's the simple truth: automated follow-up emails watch for customer actions and respond on your behalf \u2014 in your voice, at the right moment.\n\nBrowsed but didn't book? They get a gentle nudge. Filled out a form? They get a warm welcome. You set it up once, and it runs quietly in the background.\n\nNo more sticky note reminders. No more dropped leads.\n\nWe build these for small business owners every day \u2014 and they sound nothing like a robot. Visit dream-page.com to get started \ud83d\udc8c\n\n#FollowUpEmails #EmailAutomation #SmallBusinessMarketing #LeadNurturing #AutomateYourBusiness #EmailMarketing #SmallBizOwner #DreamAIJourney #WorkSmarter #BusinessGrowth",
-        "twitter": "Follow-up emails aren't magic \u2014 they just respond to what your customer does, in your voice, at the right time. Set it once, never drop a lead again. dream-page.com"
-      },
-      "posted": {
-        "facebook": false,
-        "instagram": false,
-        "twitter": false
-      }
-    },
-    {
-      "date": "2026-10-14",
-      "service": "Marketing Automation",
-      "angle": "pain_point",
-      "image_path": "images/2026-10-12/day-3.png",
-      "posts": {
-        "facebook": "You started your business because you love what you do \u2014 not because you love spending Saturday mornings scheduling social posts, writing promotional emails, and trying to remember which customers haven't heard from you in a while.\n\nBut here you are. Again. Trading your weekend for a to-do list that never shrinks.\n\nMarketing is important \u2014 nobody's arguing that. But manually doing every single piece of it is quietly stealing your time, your energy, and honestly? Your joy.\n\nMarketing automation changes that equation. Your promotional emails go out on schedule. Your audience gets segmented and messaged based on what they actually care about. Campaigns run while you're doing the work you actually love.\n\nYou don't need a marketing team. You need the right system \u2014 built around your business, not a corporate template.\n\nAt Dream AI Journey, we set this up for small business owners so the marketing keeps moving even when you step away. You deserve that freedom.\n\nLet's build it together at dream-page.com.",
-        "instagram": "You didn't start your business to spend every weekend scheduling posts and writing promotional emails. \ud83d\ude2e\u200d\ud83d\udca8\n\nBut manual marketing is quietly eating your time \u2014 and your joy.\n\nMarketing automation means your emails go out on time, your audience gets the right message, and your campaigns run \u2014 even when you're not touching your phone.\n\nYou bring the passion. The system handles the repetition.\n\nThis is exactly what we build at Dream AI Journey \u2014 marketing that works while you do what you love. Visit dream-page.com to learn more \ud83d\ude80\n\n#MarketingAutomation #SmallBusinessMarketing #EmailMarketing #AutomateYourBusiness #SmallBizOwner #EntrepreneurLife #DreamAIJourney #WorkLifeBalance #MarketingTips #BusinessGrowth",
-        "twitter": "You didn't start your business to spend weekends scheduling posts. Marketing automation handles the repetition so you can get back to the work you love. dream-page.com"
-      },
-      "posted": {
-        "facebook": false,
-        "instagram": false,
-        "twitter": false
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "service": "Data Entry Automation",
-      "angle": "client_win",
-      "image_path": "images/2026-10-12/day-4.png",
-      "posts": {
-        "facebook": "Maria runs a small insurance brokerage with a team of three. Every week, her team was spending nearly 8 hours transferring client information from intake forms into their CRM \u2014 by hand. Copy, paste, double-check, repeat.\n\nIt wasn't glamorous work, and it wasn't hard, but it was relentless. And every once in a while, a typo would cause a headache that took twice as long to fix.\n\nWhen we set up data entry automation for Maria, her team got those 8 hours back. The information flows directly from her intake forms into her CRM \u2014 cleaned, formatted, and ready to use. No copy-pasting. No second-guessing.\n\nThe first week after it went live, one of her team members told her: 'I actually finished everything by Thursday.'\n\nThat's not a small thing. That's real time returned to real people.\n\nIf your team is drowning in manual data entry, we'd love to help. Visit dream-page.com and let's find your 8 hours.",
-        "instagram": "Maria's team was spending 8 hours a week manually entering client data. Copy. Paste. Double-check. Repeat. \ud83d\ude13\n\nAfter we set up data entry automation? That work happens automatically \u2014 clean, accurate, and instant.\n\nHer team's exact words the first week: 'I actually finished everything by Thursday.'\n\nThat's what automation does. It gives your people their time back to focus on work that actually matters.\n\nReady for your version of that moment? Visit dream-page.com \ud83d\udcaa\n\n#DataEntryAutomation #SmallBusinessAutomation #WorkSmarter #BusinessEfficiency #SmallBizOwner #DreamAIJourney #AutomateYourBusiness #TimeManagement #EntrepreneurLife #SmallTeamBigDreams",
-        "twitter": "Maria's team spent 8 hrs/week on manual data entry. After automation: 'I finished everything by Thursday.' That's the power of getting your time back. dream-page.com"
-      },
-      "posted": {
-        "facebook": false,
-        "instagram": false,
-        "twitter": false
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "service": "Invoicing & Billing",
       "angle": "question_led",
-      "image_path": "images/2026-10-12/day-5.png",
+      "image_path": "images/2026-10-19/day-1.png",
       "posts": {
-        "facebook": "When's the last time you sent an invoice and actually got paid on time \u2014 without following up?\n\nIf you had to think about that for a second, you're not alone. For so many small business owners, invoicing feels like the part of the job that never ends. You do the work, you send the invoice, and then\u2026 you wait. And wait. And then you have to send that awkward reminder. And then another one.\n\nIt's not just annoying \u2014 it's a real cash flow problem that affects your ability to plan, invest, and grow.\n\nAutomated invoicing and billing changes that rhythm completely. Invoices go out automatically when work is completed. Payment reminders follow up on their own schedule. Recurring clients get billed like clockwork without you lifting a finger.\n\nYou did the work. You should get paid \u2014 without the chase.\n\nWe help small business owners set this up so billing actually works for them, not against them. Come see how at dream-page.com.",
-        "instagram": "When's the last time you sent an invoice and got paid without chasing it down? \ud83e\udd14\n\nFor most small business owners, billing means doing the work AND sending reminders AND following up again. It's exhausting.\n\nAutomated invoicing means invoices go out on time, reminders follow automatically, and recurring clients get billed without you touching a thing.\n\nYou did the work. The payment should follow without a fight.\n\nLet's fix your billing flow \u2014 visit dream-page.com \ud83d\udcb8\n\n#InvoicingAutomation #SmallBusinessFinance #GetPaidOnTime #BillingAutomation #SmallBizOwner #DreamAIJourney #CashFlow #AutomateYourBusiness #FreelancerLife #EntrepreneurTips",
-        "twitter": "When's the last time you got paid without chasing the invoice? Automated billing sends invoices, reminders, and recurring charges \u2014 all on autopilot. dream-page.com"
+        "facebook": "Ever notice how the questions customers ask you at 11pm are the exact same ones they asked at 2pm? 'Do you offer gift wrapping?' 'What are your hours?' 'Can I return this?' You've answered those questions a thousand times \u2014 and honestly, you'll answer them a thousand more. Unless something changes. That's exactly why we built AI Chatbot support into Dream AI Journey. Your chatbot sits on your website around the clock, answers the questions your customers always ask, and never gets tired, distracted, or frustrated. You wake up to happy customers who already got what they needed \u2014 without you lifting a finger. No complicated setup. No tech headaches. Just a friendly, always-on helper that sounds like you and works like a dream. If you're ready to stop being your own 24/7 receptionist, let's talk. Visit dream-page.com and see how easy it really is.",
+        "instagram": "Be honest \u2014 how many times did you answer the same customer question last week? \ud83d\ude05 Your time is worth more than copy-pasting the same reply over and over. An AI chatbot on your website handles those everyday questions instantly, day or night, so you can focus on the work that actually moves your business forward. It's always on. Always friendly. And it sounds just like you. Visit dream-page.com to see how it works.\n\n#SmallBusinessOwner #AIchatbot #BusinessAutomation #SmallBizLife #WorkSmarter #CustomerService #EntrepreneurTips #TimeIsMoney #DreamAIJourney #AutomateYourBusiness",
+        "twitter": "How many times did you answer the same customer question today? Your AI chatbot can handle that 24/7 so you don't have to. \u2728 dream-page.com"
       },
       "posted": {
         "facebook": false,
@@ -82,14 +18,62 @@
       }
     },
     {
-      "date": "2026-10-17",
-      "service": "Inventory Alerts",
+      "date": "2026-10-20",
+      "service": "Follow-up Emails",
+      "angle": "before_after",
+      "image_path": "images/2026-10-19/day-2.png",
+      "posts": {
+        "facebook": "Before automation: You finish a consultation, genuinely excited about the potential client. You tell yourself you'll follow up in a couple days. Life happens. A week passes. You remember, feel a little awkward, send a rushed email \u2014 and hear nothing back. Sound familiar? After automation: The moment your consultation ends, a warm, personalized follow-up email goes out automatically. It thanks them, reminds them what you discussed, and gives them an easy next step. Three days later, a gentle check-in lands in their inbox. You didn't write a single word of it this week \u2014 but to your lead, it feels like you were thinking about them the whole time. That's the magic of automated follow-up emails done right. You stay top of mind without adding a single task to your already packed day. Dream AI Journey sets this all up for you. Head to dream-page.com and let's get your follow-ups working while you sleep.",
+        "instagram": "Before: you meant to follow up. You really did. \ud83d\ude2c After: your leads hear from you within minutes \u2014 automatically, warmly, and at exactly the right time. No awkward delays. No missed opportunities. Just consistent, personal follow-up that runs itself while you focus on doing what you love. This is what follow-up email automation feels like. Ready for the 'after'? Visit dream-page.com.\n\n#FollowUpEmails #EmailAutomation #SmallBusinessTips #NeverMissALead #BusinessGrowth #AutomateYourBusiness #EntrepreneurLife #SmallBizOwner #DreamAIJourney #WorkSmarterNotHarder",
+        "twitter": "Before: you forgot to follow up. After: it already went out automatically \u2014 warm, personal, on time. Every time. \ud83d\udc8c dream-page.com"
+      },
+      "posted": {
+        "facebook": false,
+        "instagram": false,
+        "twitter": false
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "service": "Marketing Automation",
+      "angle": "behind_the_scenes",
+      "image_path": "images/2026-10-19/day-3.png",
+      "posts": {
+        "facebook": "Let me pull back the curtain on how marketing automation actually works \u2014 because it's a lot simpler than it sounds. When someone visits your website, signs up for your newsletter, or clicks a link in your email, that action becomes a trigger. Think of it like a little domino falling. That trigger tells our system: okay, this person is interested in X \u2014 let's send them something relevant. So they get an email about exactly what they were looking at. Or a text reminder. Or a special offer. All timed perfectly. You built those messages once \u2014 we take care of the rest. No more blasting the same generic email to your whole list and hoping something sticks. Instead, the right people get the right message at the right moment, automatically. And you? You're off doing literally anything else. Marketing that works in the background is not a big-business luxury anymore. It's available to you right now at dream-page.com.",
+        "instagram": "Here's how marketing automation actually works for small businesses \ud83d\udc47 Someone visits your site or clicks your email \u2192 that action triggers a personalized message \u2192 they get exactly what they need, right when they need it. You set it up once. It runs forever. No tech degree required. No giant marketing team. Just smart, timely messages that feel personal \u2014 because they are. Come see how it works at dream-page.com.\n\n#MarketingAutomation #SmallBusinessMarketing #EmailMarketing #AutomateYourMarketing #SmallBizTips #BehindTheScenes #DigitalMarketing #EntrepreneurLife #DreamAIJourney #BusinessTools",
+        "twitter": "Set it once \u2192 the right message goes to the right customer at the right time, automatically. That's marketing automation in plain English. \ud83c\udfaf dream-page.com"
+      },
+      "posted": {
+        "facebook": false,
+        "instagram": false,
+        "twitter": false
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "service": "Data Entry Automation",
+      "angle": "pain_point",
+      "image_path": "images/2026-10-19/day-4.png",
+      "posts": {
+        "facebook": "It's 9pm. The kids are finally in bed. You told yourself you'd relax tonight \u2014 but here you are, manually typing customer information from paper forms into your spreadsheet. Again. Order numbers. Names. Emails. Addresses. One by one. And every time you do it, there's a tiny voice in the back of your head saying, 'There has to be a better way.' There is. Data entry automation means the information flows directly where it needs to go \u2014 no typing, no copy-pasting, no human error. A form fills out, a sale goes through, a new customer signs up \u2014 and your systems update themselves instantly. You get your evenings back. You get your accuracy back. You get your sanity back. This isn't some complicated tech overhaul. Dream AI Journey makes it straightforward and actually doable for real small business owners. Take the first step tonight at dream-page.com \u2014 and make this your last late-night data entry session.",
+        "instagram": "It's 9pm. You're still typing customer info into a spreadsheet. One. Row. At. A. Time. \ud83d\ude24 This is exactly the kind of work that drains you without growing your business \u2014 and it doesn't have to be yours to do anymore. Data entry automation moves your information exactly where it needs to go, the moment it's created. No errors. No evenings lost. Just done. Visit dream-page.com and get your nights back.\n\n#DataEntry #BusinessAutomation #SmallBusinessOwner #WorkLifeBalance #AutomateEverything #SmallBizLife #EntrepreneurStruggle #TimeManagement #DreamAIJourney #StopDoingItManually",
+        "twitter": "Still manually typing customer info into spreadsheets at 9pm? That stops today. Data entry automation does it the moment it happens. \ud83d\udcbb dream-page.com"
+      },
+      "posted": {
+        "facebook": false,
+        "instagram": false,
+        "twitter": false
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "service": "Invoicing & Billing",
       "angle": "myth_busting",
-      "image_path": "images/2026-10-12/day-6.png",
+      "image_path": "images/2026-10-19/day-5.png",
       "posts": {
-        "facebook": "There's a myth I hear from small retail and product-based business owners all the time: 'Inventory tracking systems are only for big businesses with warehouses and IT teams.'\n\nI get why it feels that way. The word 'system' sounds expensive and complicated. But here's the truth: automated inventory alerts are actually built FOR small businesses \u2014 because you're the ones who can't afford to run out of your best-selling product on a Friday afternoon.\n\nA big chain can absorb a stockout. You might lose a loyal customer.\n\nInventory alerts don't require a warehouse team or a tech department. They work quietly in the background and send you a simple notification when a product hits a low threshold you set. That's it. You decide the number, you get the alert, you reorder in time.\n\nNo spreadsheet. No surprise stockouts. No scrambling.\n\nSmall businesses deserve smart tools too \u2014 and this one's simpler than you think. See how it works at dream-page.com.",
-        "instagram": "Myth: 'Inventory tracking systems are only for big businesses.'\n\nTruth: Small businesses need them MORE. \ud83d\udce6\n\nYou can't afford a surprise stockout on your best seller. A big chain absorbs it \u2014 you lose a loyal customer.\n\nAutomated inventory alerts are simple: you set a low-stock threshold, and the system notifies you when it's time to reorder. No warehouse team needed. No complicated setup.\n\nJust the right heads-up, at the right time.\n\nSee how easy it is at dream-page.com \ud83d\ude4c\n\n#InventoryManagement #SmallBusinessAutomation #RetailBusiness #StockAlerts #DreamAIJourney #SmallBizOwner #AutomateYourBusiness #ProductBusiness #WorkSmarter #SmallRetail",
-        "twitter": "Myth: inventory alerts are only for big businesses. Truth: small businesses need them more \u2014 because you can't afford a Friday stockout. Simple setup, real protection. dream-page.com"
+        "facebook": "Let's bust a myth that keeps too many small business owners stuck: 'Invoicing software is only worth it if you have a lot of clients.' Not true \u2014 and here's why it actually matters more when you're small. When you only have 10 or 15 clients, each one counts enormously. A late payment from even one of them can throw off your whole month. And when you're chasing invoices manually, sending reminders, and tracking who paid what in a spreadsheet? You're spending real time and real mental energy on something that should just... handle itself. Automated invoicing sends your invoices on time, follows up on late payments without awkwardness, and keeps your records clean \u2014 whether you have 5 clients or 500. You don't need to be big to deserve systems that work. You just need to be smart about your time. Dream AI Journey makes professional invoicing and billing accessible for businesses exactly like yours. See what's possible at dream-page.com.",
+        "instagram": "Myth: 'Invoicing automation is only for big businesses with tons of clients.' Truth: It matters even MORE when every client counts. \ud83d\udca1 When one late payment can shake your whole month, you need a system that sends invoices on time, follows up automatically, and keeps your cash flow healthy \u2014 without you chasing anyone down. This is for you, small business owner. Visit dream-page.com.\n\n#InvoicingTips #SmallBusinessFinance #BillingAutomation #CashFlow #MythBusting #SmallBizOwner #GetPaidOnTime #BusinessAutomation #DreamAIJourney #FreelancerTips",
+        "twitter": "Myth: invoicing automation is only for big businesses. Truth: it matters most when every client counts. Stop chasing payments. \ud83d\udcb8 dream-page.com"
       },
       "posted": {
         "facebook": false,
@@ -98,14 +82,30 @@
       }
     },
     {
-      "date": "2026-10-18",
-      "service": "General Brand Story",
-      "angle": "did_you_know",
-      "image_path": "images/2026-10-12/day-7.png",
+      "date": "2026-10-24",
+      "service": "Inventory Alerts",
+      "angle": "pain_point",
+      "image_path": "images/2026-10-19/day-6.png",
       "posts": {
-        "facebook": "Did you know the average small business owner spends over 20 hours a week on administrative tasks that have nothing to do with the reason they started their business?\n\nTwenty hours. That's half a full-time job spent on data entry, follow-up emails, manual invoicing, inventory checks, and answering the same customer questions over and over.\n\nThat's the number that stopped us in our tracks when we started Dream AI Journey \u2014 and it's the reason we do what we do.\n\nWe build automation tools specifically for small business owners \u2014 not enterprises, not corporations \u2014 people like you who had a vision, took a leap, and deserve to spend their time on the work that actually lights them up.\n\nEvery service we offer is designed to quietly take something off your plate so you can put that energy back into growing, creating, and living.\n\n20 hours is a lot of life to get back. We'd love to help you reclaim some of it.\n\nStart the conversation at dream-page.com \u2014 we're real people, and we're genuinely glad you're here.",
-        "instagram": "The average small business owner spends 20+ hours a week on admin tasks. \ud83d\ude33\n\nThat's half a full-time job spent on things that aren't actually your business.\n\nThat number is exactly why Dream AI Journey exists. We build automation tools for real small business owners \u2014 chatbots, email follow-ups, invoicing, inventory alerts, and more \u2014 all designed to give you those hours back.\n\nYou started your business for a reason. Let's make sure you have time to actually live it.\n\nWe're here when you're ready. Visit dream-page.com \ud83d\udc99\n\n#DreamAIJourney #SmallBusinessAutomation #SmallBizOwner #GetYourTimeBack #BusinessAutomation #EntrepreneurLife #WorkSmarter #AIforSmallBusiness #SmallBusinessLife #AutomateYourBusiness",
-        "twitter": "The average small business owner spends 20+ hrs/week on admin. That's why Dream AI Journey exists \u2014 to give those hours back. Real tools, real people, real relief. dream-page.com"
+        "facebook": "Picture this: your best-selling product just ran out \u2014 and you had no idea until a customer told you. Or worse, until you checked the shelf yourself and felt that sinking feeling. You scramble to reorder. Your supplier has a lead time. You're out of stock for two weeks. Meanwhile, customers who would have bought from you go somewhere else \u2014 and some of them don't come back. Stockouts are expensive. Not just in lost sales, but in lost trust. Here's what changes with inventory alerts: you get a notification the moment a product dips below the level you set. Before the shelf is empty. Before the customer is disappointed. Before the scramble begins. You reorder on your schedule, not in a panic. Dream AI Journey sets up smart inventory alerts that keep you one step ahead, so you're never caught off guard by an empty shelf again. Your customers deserve consistency \u2014 and so do you. Start at dream-page.com.",
+        "instagram": "That sinking feeling when a customer says 'you're out of my favorite item'? \ud83d\ude14 Stockouts cost you sales AND trust \u2014 and the worst part is they're totally preventable. Inventory alerts notify you the moment stock gets low, so you can reorder calmly, not frantically. No more empty shelves. No more disappointed customers. Just a business that's always ready. Get ahead of it at dream-page.com.\n\n#InventoryManagement #SmallRetailBusiness #StockAlerts #BusinessAutomation #RetailOwner #SmallBizTips #NeverRunOut #ShopSmall #DreamAIJourney #SmallBusinessOwner",
+        "twitter": "Running out of stock before you even noticed? Inventory alerts warn you early so you reorder calmly \u2014 not in a panic. \ud83d\udce6 dream-page.com"
+      },
+      "posted": {
+        "facebook": false,
+        "instagram": false,
+        "twitter": false
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "service": "General Brand Story",
+      "angle": "client_win",
+      "image_path": "images/2026-10-19/day-7.png",
+      "posts": {
+        "facebook": "Meet someone like Priya. She ran a small handmade skincare business out of her home \u2014 doing everything herself. Making the products, photographing them, running the website, answering every customer message, and manually entering every order into her records. She loved her business. But she was exhausted. She came to Dream AI Journey not really sure what she needed \u2014 just knowing she couldn't keep going the way she was. We sat down with her, figured out where her time was actually going, and set up a few simple automations: a chatbot for common questions, automated order data entry, and follow-up emails for new customers. Within a month, she told us she finally felt like a business owner again \u2014 not just an employee of her own company. That's why we exist. Not to replace the heart of your business, but to protect it. If you're running on empty, let's find you some breathing room. Visit dream-page.com \u2014 your story could be next.",
+        "instagram": "Priya loved her handmade skincare business. She just didn't love doing everything alone at midnight. \ud83c\udf19 After a few simple automations \u2014 chatbot, data entry, follow-up emails \u2014 she told us she finally felt like a business owner again instead of a one-person chaos machine. That's the whole reason Dream AI Journey exists. To give you your business back. What would you do with a few extra hours? Visit dream-page.com and let's figure it out together.\n\n#SmallBusinessStory #BusinessAutomation #EntrepreneurLife #WorkSmarterNotHarder #WomenInBusiness #SmallBizOwner #DreamAIJourney #HandmadeBusiness #AutomateYourBusiness #SmallBusinessSuccess",
+        "twitter": "She loved her business but was drowning in the work of running it. A few simple automations later \u2014 she had her evenings back. \ud83c\udf3f dream-page.com"
       },
       "posted": {
         "facebook": false,
